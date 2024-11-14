@@ -1,5 +1,5 @@
 # Ex03 Time Table
-### Data: 12.10.2024
+### Date: 12.10.2024
 
 
 ## AIM
